@@ -1,0 +1,4 @@
+file name : /file1.txt
+owner : id2
+repository : sungil-initialt/sub-project1
+change count : 0
